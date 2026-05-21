@@ -1,3 +1,29 @@
+Incomplete 
+
+SUPABASE_URL=your Supabase project URL
+NEXT_PUBLIC_SUPABASE_URL=your Supabase project URL
+
+SUPABASE_ANON_KEY=your Supabase anon/public key
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your Supabase anon/public key
+
+SUPABASE_SERVICE_ROLE_KEY=your Supabase service_role key
+
+POSTGRES_PRISMA_URL=your pooled Supabase database connection string
+POSTGRES_URL_NON_POOLING=your non-pooling/direct Supabase database connection string
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Eververse
 
 <div>
